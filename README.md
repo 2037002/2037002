@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Santiago Arias">
+  <img src="./assets/logo.png" width="100%" alt="Santiago Arias">
 </p>
 
 <h1 align="center">Hola, soy Santiago Arias 👋</h1>
