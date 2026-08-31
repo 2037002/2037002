@@ -154,3 +154,22 @@ Interfaces web interactivas y visualizaciones tridimensionales.
 <p align="center">
   <b>🐱 Code · Data · Build · Repeat</b>
 </p>
+
+<h2 align="center">🐾 Mi actividad</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/2037002/2037002/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/2037002/2037002/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/2037002/2037002/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
