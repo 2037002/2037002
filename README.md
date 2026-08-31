@@ -151,10 +151,6 @@ Interfaces web interactivas y visualizaciones tridimensionales.
 
 ---
 
-<p align="center">
-  <b>🐱 Code · Data · Build · Repeat</b>
-</p>
-
 <h2 align="center">🐾 Mi actividad</h2>
 
 <p align="center">
@@ -168,7 +164,7 @@ Interfaces web interactivas y visualizaciones tridimensionales.
       srcset="https://raw.githubusercontent.com/2037002/2037002/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub contribution snake"
+      alt="Actividad de Santiago Arias"
       src="https://raw.githubusercontent.com/2037002/2037002/output/github-contribution-grid-snake.svg"
     />
   </picture>
