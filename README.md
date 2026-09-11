@@ -9,46 +9,34 @@
 </p>
 
 <p align="center">
-  Desarrollo aplicaciones, procesos de datos y herramientas enfocadas en
-  <br>
-  <strong>convertir información en soluciones útiles.</strong>
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Backend</code>
-  <code>Data</code>
-  <code>ETL</code>
-  <code>SQL</code>
-  <code>Automation</code>
+  Desarrollo aplicaciones y procesos que conectan
+  <strong>software, datos y automatización</strong>
+  para resolver problemas reales.
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de Ingeniería con interés en **desarrollo de software, automatización y análisis de datos**.
+🎓 Estudiante de Ingeniería enfocado en **desarrollo de software y datos**.
 
-🐍 Desarrollo aplicaciones backend principalmente con **Python**, utilizando **Django** y **Flask**.
+🐍 Desarrollo aplicaciones backend con **Python, Django y Flask**.
 
-🗄️ Trabajo con **bases de datos SQL**, diseño de consultas, integración con aplicaciones y procesamiento de información.
+📊 Trabajo con **ETL, Pandas, SQL y Power BI** para transformar y analizar información.
 
-📊 Desarrollo procesos **ETL**, limpieza y transformación de datos con **Pandas**, además de análisis y visualización con **Power BI**.
+🌐 Desarrollo interfaces con **JavaScript, React y Three.js**.
 
-🌐 En frontend trabajo con **HTML, CSS, JavaScript y React**, incluyendo visualizaciones y experiencias **3D con Three.js**.
-
-🐧 También trabajo con **Linux, Git, GitHub, entornos virtuales, VS Code y Azure**.
+🗄️ Integro aplicaciones con **SQL Server, PostgreSQL y MySQL**.
 
 ---
 
 # ⚡ Tech Stack
 
-<table>
-<tr>
+### Backend
 
-<td width="50%" valign="top">
-
-<h3 align="center">🐍 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark" alt="Python, Django, Flask">
+</p>
 
 <p align="center">
   <code>Python</code>
@@ -56,15 +44,11 @@
   <code>Flask</code>
 </p>
 
+### Frontend & 3D
+
 <p align="center">
-Desarrollo de APIs, aplicaciones backend, lógica de negocio, automatización e integración con bases de datos.
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs&theme=dark" alt="HTML, CSS, JavaScript, React, Three.js">
 </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Frontend & 3D</h3>
 
 <p align="center">
   <code>HTML</code>
@@ -74,36 +58,23 @@ Desarrollo de APIs, aplicaciones backend, lógica de negocio, automatización e 
   <code>Three.js</code>
 </p>
 
-<p align="center">
-Interfaces web modernas, experiencias interactivas y visualizaciones tridimensionales.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📊 Data & Analytics</h3>
+### Data & Analytics
 
 <p align="center">
-  <code>Pandas</code>
-  <code>ETL</code>
-  <code>Power BI</code>
-  <code>SQL</code>
+  <code>🐼 Pandas</code>
+  &nbsp;
+  <code>⚡ ETL</code>
+  &nbsp;
+  <code>📊 Power BI</code>
+  &nbsp;
+  <code>🗃️ SQL</code>
 </p>
+
+### Databases
 
 <p align="center">
-Procesamiento, limpieza, transformación, análisis y visualización de información.
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, MySQL">
 </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
   <code>SQL Server</code>
@@ -111,18 +82,11 @@ Procesamiento, limpieza, transformación, análisis y visualización de informac
   <code>MySQL</code>
 </p>
 
+### Tools & Environment
+
 <p align="center">
-Diseño de consultas, integración, modelado y administración de información.
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure&theme=dark" alt="Git, GitHub, Linux, VS Code, Azure">
 </p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚙️ Tools & Environment
 
 <p align="center">
   <code>Git</code>
@@ -130,135 +94,42 @@ Diseño de consultas, integración, modelado y administración de información.
   <code>Linux</code>
   <code>VS Code</code>
   <code>Azure</code>
-  <code>Virtual Environments</code>
 </p>
-
-```text
-Git        ████████████████████  Version Control
-GitHub     ████████████████████  Collaboration
-Linux      ███████████████████░  Environment
-VS Code    ████████████████████  Development
-Azure      ██████████████████░░  Cloud
-```
 
 ---
 
-# 🚀 Qué hago
+# 🚀 En qué trabajo
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-<h3 align="center">💻 Software Development</h3>
+### 💻 Software
 
-Desarrollo aplicaciones web utilizando **Python como backend** y tecnologías modernas de frontend.
+Aplicaciones web, APIs y herramientas internas.
 
-<p align="center">
-<code>Python</code>
-<code>Django</code>
-<code>Flask</code>
-<code>React</code>
-</p>
+`Python` `Django` `Flask`
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center">📊 Data & ETL</h3>
-
-Procesamiento, limpieza, transformación y visualización de información para convertir datos en soluciones.
-
-<p align="center">
-<code>Pandas</code>
-<code>SQL</code>
-<code>ETL</code>
-<code>Power BI</code>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🗄️ Databases</h3>
-
-Diseño, consulta e integración de bases de datos con aplicaciones.
-
-<p align="center">
-<code>SQL Server</code>
-<code>PostgreSQL</code>
-<code>MySQL</code>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Web & 3D</h3>
-
-Interfaces web interactivas y visualizaciones tridimensionales.
-
-<p align="center">
-<code>JavaScript</code>
-<code>React</code>
-<code>Three.js</code>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Áreas de interés
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ⚙️ Backend
-
-`Python`
-
-`Django`
-
-`Flask`
-
-`REST APIs`
-
-</td>
-
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 📊 Data
 
-`ETL`
+Procesamiento, transformación y visualización de información.
 
-`Pandas`
-
-`SQL`
-
-`Automation`
+`Pandas` `ETL` `SQL`
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🌐 Web
+### ⚙️ Automation
 
-`JavaScript`
+Automatización de procesos y flujos de información.
 
-`React`
-
-`Three.js`
-
-`UI Development`
+`Python` `SQL` `Data`
 
 </td>
 
@@ -267,157 +138,28 @@ Interfaces web interactivas y visualizaciones tridimensionales.
 
 ---
 
-# 🧩 Mi enfoque de desarrollo
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   01  ANALYZE     →   Entender el problema          │
-│   02  DESIGN      →   Diseñar la solución           │
-│   03  BUILD       →   Construir                     │
-│   04  AUTOMATE    →   Automatizar procesos          │
-│   05  VALIDATE    →   Validar resultados            │
-│   06  OPTIMIZE    →   Mejorar y optimizar           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-# 💻 Development Profile
-
-```python
-class SantiagoArias:
-
-    role = "Software Developer"
-
-    backend = [
-        "Python",
-        "Django",
-        "Flask"
-    ]
-
-    frontend = [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Three.js"
-    ]
-
-    data = [
-        "Pandas",
-        "ETL",
-        "Power BI"
-    ]
-
-    databases = [
-        "SQL Server",
-        "PostgreSQL",
-        "MySQL"
-    ]
-
-    tools = [
-        "Git",
-        "GitHub",
-        "Linux",
-        "VS Code",
-        "Azure"
-    ]
-
-    def build(self):
-        return "Ideas → Data → Software → Solutions 🚀"
-```
-
----
-
-# 📌 Actualmente
-
-```text
-> Desarrollando aplicaciones y herramientas internas
-
-> Trabajando con Python, SQL y procesos ETL
-
-> Construyendo interfaces web y dashboards
-
-> Automatizando procesos y flujos de información
-
-> Mejorando mis conocimientos en arquitectura de software
-
-> Experimentando con React y visualización 3D
-```
-
----
-
-# 🔬 Workflow
-
-```text
-        PROBLEM
-           │
-           ▼
-       ┌─────────┐
-       │ ANALYZE │
-       └────┬────┘
-            │
-            ▼
-        ┌──────┐
-        │ DATA │
-        └───┬──┘
-            │
-            ▼
-      ┌────────────┐
-      │   DESIGN   │
-      └─────┬──────┘
-            │
-            ▼
-       ┌─────────┐
-       │  BUILD  │
-       └────┬────┘
-            │
-            ▼
-      ┌────────────┐
-      │  AUTOMATE  │
-      └─────┬──────┘
-            │
-            ▼
-        SOLUTION
-```
-
----
-
-# 🎯 Objetivo
-
-Seguir desarrollando soluciones que integren **software, automatización y datos**, construyendo herramientas que simplifiquen procesos y conviertan información en resultados útiles.
-
----
-
-# ⚡ Philosophy
-
-```text
-$ analyze
-$ design
-$ build
-$ automate
-$ improve
-$ repeat
-```
+# 🧠 Mi enfoque
 
 <p align="center">
-  <strong>Build · Analyze · Automate · Improve · Repeat</strong>
+  <code>ANALYZE</code>
+  ➜
+  <code>DESIGN</code>
+  ➜
+  <code>BUILD</code>
+  ➜
+  <code>AUTOMATE</code>
+  ➜
+  <code>IMPROVE</code>
 </p>
 
-<p align="center">
-  Turning data into opportunities and ideas into solutions.
-</p>
+<br>
 
----
+<div align="center">
 
-<p align="center">
-  <code>SOFTWARE</code>
-  ·
-  <code>DATA</code>
-  ·
-  <code>AUTOMATION</code>
-</p>
+### Build · Analyze · Automate · Improve
 
-<h3 align="center">Santiago Arias</h3>
+**Turning data into opportunities and ideas into solutions.**
+
+`SOFTWARE` · `DATA` · `AUTOMATION`
+
+</div>
