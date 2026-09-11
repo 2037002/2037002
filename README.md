@@ -2,134 +2,90 @@
   <img src="./assets/logo.png" width="100%" alt="Santiago Arias">
 </p>
 
-<h1 align="center">Hola, soy Santiago Arias 👋</h1>
+<h1 align="center">Santiago Arias</h1>
+
+<h3 align="center">
+  Software Developer · Data · Automation
+</h3>
 
 <p align="center">
-  <strong>Software Development · Data · Automation</strong>
+  Construyo aplicaciones, automatizaciones y soluciones basadas en datos.
 </p>
 
 <p align="center">
-  Desarrollo aplicaciones y procesos que conectan
-  <strong>software, datos y automatización</strong>
-  para resolver problemas reales.
-</p>
-
----
-
-## 👨‍💻 Sobre mí
-
-🎓 Estudiante de Ingeniería enfocado en **desarrollo de software y datos**.
-
-🐍 Desarrollo aplicaciones backend con **Python, Django y Flask**.
-
-📊 Trabajo con **ETL, Pandas, SQL y Power BI** para transformar y analizar información.
-
-🌐 Desarrollo interfaces con **JavaScript, React y Three.js**.
-
-🗄️ Integro aplicaciones con **SQL Server, PostgreSQL y MySQL**.
-
----
-
-# ⚡ Tech Stack
-
-### Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark" alt="Python, Django, Flask">
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Django</code>
-  <code>Flask</code>
-</p>
-
-### Frontend & 3D
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs&theme=dark" alt="HTML, CSS, JavaScript, React, Three.js">
-</p>
-
-<p align="center">
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>JavaScript</code>
-  <code>React</code>
-  <code>Three.js</code>
-</p>
-
-### Data & Analytics
-
-<p align="center">
-  <code>🐼 Pandas</code>
-  &nbsp;
-  <code>⚡ ETL</code>
-  &nbsp;
-  <code>📊 Power BI</code>
-  &nbsp;
-  <code>🗃️ SQL</code>
-</p>
-
-### Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, MySQL">
-</p>
-
-<p align="center">
-  <code>SQL Server</code>
-  <code>PostgreSQL</code>
-  <code>MySQL</code>
-</p>
-
-### Tools & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure&theme=dark" alt="Git, GitHub, Linux, VS Code, Azure">
-</p>
-
-<p align="center">
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>Linux</code>
-  <code>VS Code</code>
-  <code>Azure</code>
+  <code>BACKEND</code>
+  ·
+  <code>DATA</code>
+  ·
+  <code>WEB</code>
+  ·
+  <code>AUTOMATION</code>
 </p>
 
 ---
 
-# 🚀 En qué trabajo
+## 👨‍💻 Perfil
+
+Soy estudiante de Ingeniería enfocado en construir soluciones que combinan **desarrollo de software, datos y automatización**.
+
+Trabajo principalmente con **Python** para backend y procesamiento de información, además de tecnologías web para desarrollar interfaces y herramientas interactivas.
+
+---
+
+# ⚡ Technologies
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center">
 
-### 💻 Software
+### Backend
 
-Aplicaciones web, APIs y herramientas internas.
+<img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark" />
 
-`Python` `Django` `Flask`
+<br><br>
 
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 📊 Data
-
-Procesamiento, transformación y visualización de información.
-
-`Pandas` `ETL` `SQL`
+`Python` · `Django` · `Flask`
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center">
 
-### ⚙️ Automation
+### Frontend
 
-Automatización de procesos y flujos de información.
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-`Python` `SQL` `Data`
+<br><br>
+
+`HTML` · `CSS` · `JavaScript` · `React`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
+<br><br>
+
+`SQL Server` · `PostgreSQL` · `MySQL`
+
+</td>
+
+<td width="50%" align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure&theme=dark" />
+
+<br><br>
+
+`Git` · `GitHub` · `Linux` · `VS Code` · `Azure`
 
 </td>
 
@@ -138,28 +94,119 @@ Automatización de procesos y flujos de información.
 
 ---
 
-# 🧠 Mi enfoque
+# 📊 Data Stack
 
 <p align="center">
-  <code>ANALYZE</code>
-  ➜
-  <code>DESIGN</code>
-  ➜
-  <code>BUILD</code>
-  ➜
-  <code>AUTOMATE</code>
-  ➜
-  <code>IMPROVE</code>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48">
 </p>
 
-<br>
+<p align="center">
+  <code>Pandas</code>
+  ·
+  <code>ETL</code>
+  ·
+  <code>SQL</code>
+  ·
+  <code>Power BI</code>
+  ·
+  <code>Data Cleaning</code>
+  ·
+  <code>Data Transformation</code>
+</p>
+
+---
+
+# 🧊 3D & Interactive
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,threejs&theme=dark">
+</p>
+
+<p align="center">
+  Desarrollo interfaces interactivas y experiencias web utilizando
+  <strong>JavaScript, React y Three.js.</strong>
+</p>
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 💻
+
+**Web Apps**
+
+Aplicaciones y herramientas internas.
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️
+
+**Automation**
+
+Automatización de procesos y tareas.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+
+**Data**
+
+ETL, transformación y análisis.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️
+
+**Databases**
+
+Integración y procesamiento SQL.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔄 Workflow
+
+<p align="center">
+
+`PROBLEM`
+  →  
+`ANALYZE`
+  →  
+`DESIGN`
+  →  
+`BUILD`
+  →  
+`AUTOMATE`
+  →  
+`SOLUTION`
+
+</p>
+
+---
 
 <div align="center">
 
-### Build · Analyze · Automate · Improve
+### Build things that solve real problems.
 
-**Turning data into opportunities and ideas into solutions.**
+Software · Data · Automation
 
-`SOFTWARE` · `DATA` · `AUTOMATION`
+<br>
+
+**Santiago Arias**
 
 </div>
